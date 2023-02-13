@@ -1,0 +1,17 @@
+.event {
+    border: 2px solid grey;
+    border-radius: 5px;
+    background-color: #eee;
+    padding: 5px;
+    text-align: center;
+    margin: 5px;
+    width: 24%;
+}
+
+.event:hover {
+    border: 2px solid blueviolet;
+}
+
+.btn-sm, .btn-sm:hover {
+    color: white;
+}
